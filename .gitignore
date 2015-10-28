@@ -1,0 +1,8 @@
+/logs/*
+/tmp/*
+/vendor/*
+/tests/*
+/webroot/uploads/*
+phpunit.xml.dist
+composer.lock
+
