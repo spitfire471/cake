@@ -99,7 +99,7 @@ return [
         ],
 
         /**
-         * Configure the cache for model and datasource caches. This cache
+         * Configure+++++++++ the cache for model and datasource caches. This cache
          * configuration is used to store schema descriptions, and table listings
          * in connections.
          */
