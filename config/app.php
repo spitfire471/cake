@@ -62,7 +62,7 @@ return [
      *   You should treat it as extremely sensitive data.
      */
     'Security' => [
-        'salt' => '9245347e6fffde702fd41f6ab0e4583ca5bb4e3f5b3f465f0224d2ff05d1c91f',
+        'salt' => '__SALT__',
     ],
 
     /**
@@ -215,9 +215,9 @@ return [
              * the following line and set the port accordingly
              */
             //'port' => 'nonstandard_port_number',
-            'username' => 'spitfire',
-            'password' => 'weDrbg5^s',
-            'database' => 'spitfire',
+            'username' => 'my_app',
+            'password' => 'secret',
+            'database' => 'my_app',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
             'cacheMetadata' => true,
